@@ -1,0 +1,6 @@
+
+Why does seeing the difference between two codes help you spot the difference?
+-It quickly shows the only bit that you have changed, therefore you could see if you removed something important or added a typo
+
+How could habing easy access to the entire history of a file make you a more efficient programmer long term?
+A switch from a new version to an old version could be made easily if old version are kept
